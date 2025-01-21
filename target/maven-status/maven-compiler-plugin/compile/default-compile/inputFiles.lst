@@ -1,0 +1,6 @@
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/DatabaseConnection.java
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/DrexelApp.java
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/model/User.java
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/repository/UserRepository.java
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/service/EmailService.java
+/Users/jackrusch/DrexelBuildingSupply/DrexelBuildingSupplyApp/src/main/java/com/drexelbuildingsupply/servlet/VerificationServlet.java
